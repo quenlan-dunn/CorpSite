@@ -36,6 +36,9 @@
                                     <a href="/">Home</a>
                                 </li>
                                 <li>
+                                    <a href="/">Q's place</a>
+                                </li>
+                                <li>
                                     <a href="/about">About</a>
                                 </li>
                                 <li>
